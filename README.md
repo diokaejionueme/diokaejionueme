@@ -1,4 +1,10 @@
-### Hi there 👋
+
+# Hey, I'm Dioka 👋
+
+## 🧑🏽‍💻 Web Developer passionate about building lucid and efficient web apps. 
+
+### 💼  Feel free to browse through my repos or check out my [Portoflio](https://diokajr.netlify.app/)
+
 
 <!--
 **diokaejionueme/diokaejionueme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
