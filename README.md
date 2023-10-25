@@ -1,7 +1,7 @@
 
 # Hey, I'm Dioka 👋
 
-## 🧑🏽‍💻 Web Developer passionate about building beautify and efficient web apps. 
+## 🧑🏽‍💻 Web Developer Passionate about Building Beautiful and efficient Web Apps. 
 
 ### 💼  Feel free to browse through my repos or check out my [Portoflio](https://diokajr.netlify.app/)
 
