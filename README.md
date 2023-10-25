@@ -1,7 +1,7 @@
 
 ## Hey, I'm Dioka 👋
 
-## 🧑🏽‍💻 Web Developer Passionate about Building Beautiful and Immeserive User Experiences. 
+## 🧑🏽‍💻 Web Developer Passionate about Building Beautiful and Immersive User Experiences. 
 
 ### 💼  Feel free to browse through my repos or check out my [Portoflio](https://diokajr.netlify.app/)
 
